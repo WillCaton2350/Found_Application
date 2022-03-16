@@ -1,0 +1,5 @@
+This is the API for for the FOUND application
+This API holds the quotes created by Found.INC that will be the shown on the UI to the user 
+The user will select a topic from the topics section (ex: Overthinking, Stress, Home Sick, Anxiety, Depression)
+These topics will be attached to the quotes in the API. The Api will push these specific quotes to the UI based on the topic of choice
+The List of over 100 quotes will be pushed to the UI from the API/Database at random based on the selected topic
